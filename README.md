@@ -1,4 +1,5 @@
- hgmflylyhyobcurvtict # YOUTH_FEST_SQL
+
+ aiysuuleyud hai kldhgmflylyhyobcurvtict # YOUTH_FEST_SQL
 A SQL + PYTHON INTERFACE FOR COMPETITION / EVENT MANAGEMENT
 It is a project.
 
