@@ -1,4 +1,4 @@
-y vluh🙂dlful lfu# YOUTH_FEST_SQL
+fylhcucv xuxouy vluh🙂dlful lfu# YOUTH_FEST_SQL
 A SQL + PYTHON INTERFACE FOR COMPETITION / EVENT MANAGEMENT
 It is a projecbt.
 gghh yco ujesns to ensun
